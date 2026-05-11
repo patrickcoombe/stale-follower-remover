@@ -4,7 +4,7 @@ not intended for use on any particulary website
 
 seriously dont fuck with the cadence or number of followers per day etc
 
-inspired by my [YouTube un-subscriber tool](https://patrickcoombe.com/bulk-unsubscribe-youtube-channels-how-to-no-extension] that I ran in chrome dev tools 
+inspired by my [YouTube un-subscriber tool](https://patrickcoombe.com/bulk-unsubscribe-youtube-channels-how-to-no-extension) that I ran in chrome dev tools 
 
 this version here I could not get going in dev tools or in node/wsl so I tried Tampermonkey which is purpose built
 
